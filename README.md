@@ -4,7 +4,7 @@ Simple pipe in angular 11, which allows filtering and returning an object accord
 
 # Demo
 
-![Demo1](./demo/data.png) | ![Demo2](./demo/search.png)
+<img src="./demo/data.png" width="425"/> <img src="./demo/search.png" width="425"/> 
 
 
 # PipeSearch
