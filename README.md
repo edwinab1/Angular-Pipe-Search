@@ -4,7 +4,7 @@ Simple pipe in angular 11, which allows filtering and returning an object accord
 
 # Demo
 
-![Demo1](./demo/data.png)
+![Demo1](./demo/data.png) |
 ![Demo2](./demo/search.png)
 
 
@@ -32,7 +32,3 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# Angular-Pipe-Search
