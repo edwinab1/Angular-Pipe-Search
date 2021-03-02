@@ -1,3 +1,13 @@
+# About
+
+Simple pipe in angular 11, which allows filtering and returning an object according to the search box.
+
+# Demo
+
+![Demo1](./demo/data.png)
+![Demo2](./demo/search.png)
+
+
 # PipeSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
